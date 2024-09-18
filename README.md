@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   
+   https://github.com/KushagraKumar04/Task-Manager
    ```
 
 2. Navigate to the project directory:
