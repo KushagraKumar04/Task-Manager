@@ -17,10 +17,6 @@ This is a task management application built with Next.js, TypeScript, Tailwind C
 - Mobx State Tree (MST): A state management library for predictable state management.
 
 
-## Preview
-
-https://drive.google.com/drive/folders/1T71sZoGXObBh50Cv6F2WkunIhz3ZFL8A
-
 ## Getting Started
 
 To run the application locally, follow these steps:
@@ -28,7 +24,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/rihamnazeer/Task-Management-App.git
+   
    ```
 
 2. Navigate to the project directory:
@@ -54,9 +50,3 @@ To run the application locally, follow these steps:
 ## Persistence
 
 The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
