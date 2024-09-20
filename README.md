@@ -7,7 +7,7 @@ This is a task management application built with Next.js, TypeScript, Tailwind C
 - View a list of tasks.
 - Add a new task.
 - Edit an existing task.
-- Delete a task
+- Delete a task.
 
 ## Technologies Used
 
