@@ -1,10 +1,10 @@
 # Task Management Application
 
-This is a task management application built with Next.js, TypeScript, Tailwind CSS, and Mobx State Tree. It allows users to create, view, update, and delete tasks. The application utilizes local storage for data persistence
+This is a task management application built with Next.js, TypeScript, Tailwind CSS, and Mobx State Tree. It allows users to create, view, update, and delete tasks. The application utilizes local storage for data persistence.
 
 ## Features
 
-- View a list of tasks.
+- View a list of all tasks.
 - Add a new task.
 - Edit an existing task.
 - Delete a task.
