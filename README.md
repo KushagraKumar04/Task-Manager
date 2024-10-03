@@ -45,10 +45,12 @@ To run the application locally, follow these steps:
    npm run dev
    ```
 
-## Invite all pull request 
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
 
 ## Persistence
 
 The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
+
+
+## Invite all pull request 
