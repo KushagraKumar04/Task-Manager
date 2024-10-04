@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Task Management App",
+  description: "An application for maintaining your daily ToDo tasks",
 };
 
 export default function RootLayout({
