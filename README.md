@@ -1,4 +1,4 @@
-# Task Management 
+# Task Management Application / Webpage
 
 This is a task management application built with Next.js, TypeScript, Tailwind CSS. It allows users to create, view, update, and delete tasks. The application utilizes local storage for data persistence.
 
